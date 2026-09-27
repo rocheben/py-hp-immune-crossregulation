@@ -1,0 +1,7 @@
+manuscript/
+old/
+*.log
+*.npz
+__pycache__/
+.DS_Store
+~$*
