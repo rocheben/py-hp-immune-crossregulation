@@ -114,3 +114,7 @@ Between-host coupling factors derived from the fitted within-host model:
 
 Evolutionary regime (calibrated, not estimated, see appendix B):
 `k2 = 6, s3 = 6, mu3 = 0.2, K2 = 300`
+
+## License
+
+MIT, see [LICENSE](LICENSE).
